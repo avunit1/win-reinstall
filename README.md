@@ -1,0 +1,2 @@
+# win-reinstall
+unninstall list
